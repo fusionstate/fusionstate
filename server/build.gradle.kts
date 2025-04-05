@@ -1,5 +1,5 @@
 plugins {
-    id("build.jvm")
+    id("build.kotlin-jvm")
     application
 }
 
@@ -9,5 +9,5 @@ dependencies {
 }
 
 application {
-    mainClass = "io.fusionstate.app.AppKt"
+    mainClass = "io.fusionstate.server.ServerKt"
 }

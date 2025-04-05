@@ -1,5 +1,5 @@
 plugins {
-    id("build.jvm")
+    id("build.kotlin-jvm")
 }
 
 dependencies {
