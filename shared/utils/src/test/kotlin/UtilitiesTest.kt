@@ -1,10 +1,9 @@
-package io.fusionstate.utils
+package io.fusionstate.shared.utils
 
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.encodeToString
-import io.fusionstate.utils.*
 
 internal class PrinterTest {
 
