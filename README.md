@@ -1,4 +1,4 @@
-# FusionState
+[![FusionState](./assets/header.png)](https://fusionstate.io)
 
 ## Build
 This project uses [Gradle](https://gradle.org/).

@@ -4,8 +4,8 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":shared:utils"))
     implementation(project(":api"))
+    implementation(project(":shared:utils"))
 }
 
 application {

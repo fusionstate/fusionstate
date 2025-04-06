@@ -3,6 +3,5 @@ plugins {
 }
 
 dependencies {
-    api(libs.kotlin.test)
-    api(libs.kotlin.test.junit5)
+    api(libs.bundles.kotlin.test)
 }

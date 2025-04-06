@@ -12,10 +12,10 @@ pluginManagement {
     }
 }
 
-include(":server")
 include(":api")
 include(":api:graphql")
 include(":api:rest")
+include(":server")
 include(":shared:utils")
 include(":shared:test-base")
 
