@@ -1,4 +1,7 @@
 [![FusionState](./assets/header.png)](https://fusionstate.io)
+Congratulations! You found the solution to your problems. FusionState removes 
+your pain and lets you enjoy life again. Wanna know how? Read our docs to 
+learn more.
 
 ## Build
 This project uses [Gradle](https://gradle.org/).
@@ -26,3 +29,9 @@ The shared build logic was extracted to a convention plugin located in
 This project uses a version catalog (see `gradle/libs.versions.toml`) to declare
 and version dependencies
 and both a build cache and a configuration cache (see `gradle.properties`).
+
+## License
+We use the `FSL-1.1-ALv2` **Fair Source** license. Here is a short summary:
+- you can use the software for free (also for commercial projects)
+- after 2 years the license changes to Apache License V2
+- the only restriction is that you are not allowed to use it for competing products (e.g. offer a hosted cloud service)
