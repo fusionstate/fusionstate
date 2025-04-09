@@ -2,7 +2,7 @@
 [![Build Status](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
 [![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-**FusionState is a data layer for event-driven distributed systems. Most commonly used in micro-service architectures, it provides a scalable solution for sharing data with other services and applications in real-time. Check out our [website](https://fusionstate.io) to learn more.**
+FusionState is a data layer for event-driven distributed systems. Most commonly used in microservice architectures, it provides a scalable solution for sharing data between services and applications in real-time. Check out our [website](https://fusionstate.io) to learn more.
 
 ## Build
 This project uses [Gradle](https://gradle.org/).
