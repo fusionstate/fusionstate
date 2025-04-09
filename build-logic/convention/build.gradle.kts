@@ -8,4 +8,5 @@ kotlin {
 
 dependencies {
     implementation(libs.kotlin.gradle.plugin)
+    implementation(libs.kotlinx.kover.gradle.plugin)
 }
