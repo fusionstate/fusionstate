@@ -1,15 +1,15 @@
 [![FusionState](./assets/header.png)](https://fusionstate.io)
-[![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 [![Build status](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
+[![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-**Congratulations! You've found the solution to your problems. FusionState takes 
+## FusionState
+Congratulations! You've found the solution to your problems. FusionState takes 
 away your pain and lets you enjoy life again. Want to know how? Check out the 
-following link to learn more.**
+following links to learn more.
 
 **[Website](https://fusionstate.io) &bull;**
 **[Examples](https://fusionstate.io) &bull;**
 **[Demo](https://fusionstate.io)**
-___
 
 ## Build
 This project uses [Gradle](https://gradle.org/).
