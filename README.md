@@ -1,15 +1,8 @@
 [![FusionState](./assets/header.png)](https://fusionstate.io)
+[![Build Status](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
 [![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
-[![Build status](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
 
-**Congratulations! You've found the solution to your problems. FusionState takes 
-away your pain and lets you enjoy life again. Want to know how? Check out the 
-following link to learn more.**
-
-**[Website](https://fusionstate.io) &bull;**
-**[Examples](https://fusionstate.io) &bull;**
-**[Demo](https://fusionstate.io)**
-___
+**FusionState is a data layer for event-driven distributed systems. Most commonly used in micro-service architectures, it provides a scalable solution for sharing data with other services and applications in real-time. Check out our [website](https://fusionstate.io) to learn more.**
 
 ## Build
 This project uses [Gradle](https://gradle.org/).
