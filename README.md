@@ -1,6 +1,6 @@
 [![FusionState](./assets/header.png)](https://fusionstate.io)
 [![Build Status](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
 [![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
