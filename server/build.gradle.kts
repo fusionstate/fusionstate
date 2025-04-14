@@ -5,6 +5,7 @@ plugins {
 
 dependencies {
     implementation(project(":api"))
+    implementation(project(":capture"))
     implementation(project(":shared:utils"))
     testImplementation(project(":shared:test-base"))
 }

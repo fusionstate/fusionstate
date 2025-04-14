@@ -15,6 +15,7 @@ pluginManagement {
 include(":api")
 include(":api:graphql")
 include(":api:rest")
+include(":capture")
 include(":server")
 include(":shared:utils")
 include(":shared:test-base")
