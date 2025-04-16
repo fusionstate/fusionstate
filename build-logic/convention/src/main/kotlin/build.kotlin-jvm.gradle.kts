@@ -2,6 +2,7 @@ import org.gradle.api.tasks.testing.logging.TestLogEvent
 
 plugins {
     kotlin("jvm")
+    id("com.diffplug.spotless")
     id("org.jetbrains.kotlinx.kover")
 }
 
@@ -15,6 +16,12 @@ kover {
             xml { onCheck = true }
             html { onCheck = false }
         }
+    }
+}
+
+spotless {
+    kotlin {
+        ktlint()
     }
 }
 
