@@ -1,10 +1,13 @@
-[![FusionState](./assets/header.png)](https://fusionstate.io)
-[![Build Status](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
+<picture>
+    <source srcset="./assets/header_dark.png" width="200" media="(prefers-color-scheme: dark)">
+    <img src="./assets/header_light.png" width="200">
+</picture>
+
+[![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Build Status](https://img.shields.io/github/check-runs/fusionstate/fusionstate/main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
-[![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-## FusionState
 FusionState is a data access layer for event-driven distributed systems. Most commonly used in microservice architectures, it provides a scalable solution for sharing data between services and applications in real-time. Check out our [website](https://fusionstate.io) to learn more.
 
 ### Build
