@@ -1,6 +1,6 @@
 <picture>
-    <source srcset="./assets/header_dark.png" width="250" media="(prefers-color-scheme: dark)">
-    <img src="./assets/header_light.png" width="250">
+    <source srcset="./assets/header_dark.png" width="220" media="(prefers-color-scheme: dark)">
+    <img src="./assets/header_light.png" width="220">
 </picture>
 
 [![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
