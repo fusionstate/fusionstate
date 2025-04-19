@@ -3,7 +3,6 @@
     <img src="./assets/header_light.png" width="220">
 </picture>
 
-[![Apache License 2](https://img.shields.io/github/license/fusionstate/fusionstate)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 [![Build Status](https://img.shields.io/github/check-runs/fusionstate/fusionstate/main)](https://github.com/fusionstate/fusionstate/actions/workflows/build.yml)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fusionstate_fusionstate&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fusionstate_fusionstate)
